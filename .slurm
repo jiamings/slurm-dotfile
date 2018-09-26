@@ -21,7 +21,6 @@ function scn() {
   fi
 }
 
-
 # Read output files based on ID
 function vout() {
   vim $STDOUT_PATH/$1.out
